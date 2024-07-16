@@ -1,3 +1,6 @@
+### Project description
+[https://saleml.notion.site/gflownet-finetuning-for-reasoning-01c8b65a5d6c41d8b6856d68f7206cc2?pvs=4](Notion website)
+
 ### Config
 ```
 # Create and activate the environment
